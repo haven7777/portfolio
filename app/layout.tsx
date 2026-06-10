@@ -17,7 +17,7 @@ const spaceGrotesk = Space_Grotesk({
 });
 
 export const metadata: Metadata = {
-  title: "Ben Isacov — Full Stack & AI Developer",
+  title: "Ben Isacov — Full Stack & AI Engineer",
   description: "Full stack & AI developer building practical tools and workflow automations.",
 };
 
