@@ -131,7 +131,7 @@ function Hero() {
             className="max-w-md"
           >
             <p className="text-lg sm:text-xl font-medium mb-3" style={{ color: "var(--color-secondary)" }}>
-              Full Stack &amp; AI Developer
+              Full Stack &amp; AI Engineer
             </p>
             <p className="text-base leading-relaxed" style={{ color: "var(--color-muted)" }}>
               I build practical tools and workflow automations — from multi-agent AI
